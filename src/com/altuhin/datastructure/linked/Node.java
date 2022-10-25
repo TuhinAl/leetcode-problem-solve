@@ -3,11 +3,11 @@ package com.altuhin.datastructure.linked;
 public class Node {
 	
 	int data;
-	Node nextNode;
+	Node next;
 	
 	public Node(int data) {
 		this.data = data;
-		this.nextNode = null;
+		this.next = null;
 	}
 	
 	
