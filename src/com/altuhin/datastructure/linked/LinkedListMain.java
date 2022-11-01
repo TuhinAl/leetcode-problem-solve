@@ -176,6 +176,7 @@ public class LinkedListMain {
 		LinkedListMain.printLinkedList(studentLinkedList);
 		System.out.println(studentLinkedList.length());
 		System.out.println(studentLinkedList.haveCycle());
+
 	}
 	
 }
