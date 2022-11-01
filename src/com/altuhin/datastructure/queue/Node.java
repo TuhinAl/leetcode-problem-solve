@@ -1,4 +1,5 @@
-package com.altuhin.datastructure.linked;
+package com.altuhin.datastructure.queue;
+
 
 class Node {
 	

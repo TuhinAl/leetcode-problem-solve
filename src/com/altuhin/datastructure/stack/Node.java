@@ -1,4 +1,4 @@
-package com.altuhin.datastructure.linked;
+package com.altuhin.datastructure.stack;
 
 class Node {
 	

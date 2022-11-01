@@ -1,13 +1,12 @@
 package com.altuhin.datastructure.linked;
 
-class Node {
-	
+public class DNode {
 	int data;
-	Node next;
+	DNode next;
+	DNode prev;
 	
-	public Node(int data) {
+	public DNode(int data) {
 		this.data = data;
-		this.next = null;
 	}
 	
 	
